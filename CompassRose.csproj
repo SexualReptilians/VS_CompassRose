@@ -52,8 +52,12 @@
           <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\VintagestoryLib.dll</HintPath>
           <Private>False</Private>
         </Reference>
+        <Reference Include="VSEssentials">
+          <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\Mods\VSEssentials.dll</HintPath>
+        </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="CompassRoseMapLayer.cs" />
         <Compile Include="CompassRose.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="RedirectLogs.cs" />
