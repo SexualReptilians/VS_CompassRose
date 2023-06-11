@@ -36,6 +36,9 @@
           <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\Lib\0Harmony.dll</HintPath>
           <Private>False</Private>
         </Reference>
+        <Reference Include="cairo-sharp">
+          <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\Lib\cairo-sharp.dll</HintPath>
+        </Reference>
         <Reference Include="OpenTK">
           <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\Lib\OpenTK.dll</HintPath>
           <Private>False</Private>
@@ -54,6 +57,9 @@
         </Reference>
         <Reference Include="VSEssentials">
           <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\Mods\VSEssentials.dll</HintPath>
+        </Reference>
+        <Reference Include="VSSurvivalMod">
+          <HintPath>C:\Users\Nexrem\AppData\Roaming\Vintagestory\Mods\VSSurvivalMod.dll</HintPath>
         </Reference>
     </ItemGroup>
     <ItemGroup>
